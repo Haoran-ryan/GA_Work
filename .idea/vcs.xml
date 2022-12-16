@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Coursework/W1D3/js-functions-01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Coursework/W1D3/js-loops-01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Coursework/W1D4/coursework/js-arrays-01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Coursework/W1D4/coursework/js-loops-02" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Coursework/W1D5/js-array-methods" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Coursework/W1D5/js-hof-callbacks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Coursework/W2D1/html-fixit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Coursework/W2D1/valeries-veggie-shop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Coursework/W2D2/flexbox-code-along" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Coursework/W2D2/intro-to-css-grid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Coursework/W2D2/wendy-bite" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Coursework/W2D3/intro-to-dom" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Coursework/W2D3/lotr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Coursework/W2D3/rwd-code-along" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Coursework/W2D3/rwd-wireframes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Coursework/W2D4/colour-scheme-switcher" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Coursework/W2D4/counter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Coursework/W2D4/dots-game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Coursework/W2D4/event-bubbling" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Coursework/W2D5/js-dom-checkpoint" vcs="Git" />
+  </component>
+</project>
